@@ -1,4 +1,4 @@
-module github.com/kibointhehouse/ws-atskibo
+module github.com/kibointhehouse/ws-kibo2024
 
 go 1.22.1
 
